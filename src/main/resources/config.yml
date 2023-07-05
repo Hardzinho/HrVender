@@ -1,0 +1,49 @@
+#################################################
+#                     HrVender                  #
+#                 Plugin by: Hard               #
+#            Plugin exclusivo da HrStore        #
+#               © Copyright HrStore             #
+#################################################
+
+#Prefixo das mensagens
+Prefixo:
+  Ativar: true
+  Prefixo: '&e&lVENDA &8»'
+
+#Mensagens gerais
+Mensagens:
+  SemItems: '&cVocê não possui items para vender.'
+  ItemsVendidos: '&aVocê vendeu &7{quantia}x &ae recebeu &7{valor} &ade dinheiro.'
+  EmCooldown: '&cEspere &e{tempo} &cpara vender novamente.'
+
+#Configurações gerais
+Configuracoes:
+  Tempo: 2 #Tempo para vender novamente em minutos
+
+Formatacao: #Altere e adicione quantas formatações quiser
+  - '' #Deixe vazio
+  - 'K'
+  - 'M'
+  - 'B'
+  - 'T'
+  - 'Q'
+  - 'QQ'
+  - 'S'
+  - 'SS'
+  - 'OC'
+  - 'N'
+  - 'D'
+  - 'UN'
+  - 'DD'
+  - 'TR'
+  - 'QR'
+  - 'QD'
+  - 'SD'
+  - 'SPD'
+  - 'OD'
+  - 'ND'
+  - 'VG'
+  - 'UVG'
+  - 'DVG'
+  - 'TVG'
+  - 'QTV'

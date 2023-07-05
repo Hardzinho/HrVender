@@ -1,0 +1,8 @@
+name: HrVender
+version: 1.0
+depend: [Vault]
+main: hrstore.vender.HrVender
+authors: [ Stompado ]
+commands:
+  vender:
+    aliases: [sell]

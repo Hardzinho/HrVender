@@ -1,0 +1,8 @@
+#Crie quantos items quiser!
+Items:
+  1:
+    Item: 'DIAMOND:0' #Material : Data
+    Valor: 100 #Valor do item
+  2:
+    Item: 'EMERALD:0'
+    Valor: 150
